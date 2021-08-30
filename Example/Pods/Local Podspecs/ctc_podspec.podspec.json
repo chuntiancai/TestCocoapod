@@ -1,0 +1,22 @@
+{
+  "name": "ctc_podspec",
+  "version": "0.1.0",
+  "summary": "A short description of ctc_podspec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mathew.cai/ctc_podspec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mathew.cai": "mathew.cai@jfz.com"
+  },
+  "source": {
+    "git": "https://github.com/mathew.cai/ctc_podspec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ctc_podspec/Classes/**/*"
+}

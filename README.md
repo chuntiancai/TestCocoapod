@@ -19,10 +19,10 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'ctc_podspec'
 ```
-
+测试自己制作的cocoapod私有库
 ## Author
 
-mathew.cai, mathew.cai@jfz.com
+mathew.cai
 
 ## License
 

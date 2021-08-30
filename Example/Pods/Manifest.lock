@@ -1,0 +1,16 @@
+PODS:
+  - ctc_podspec (0.1.0)
+
+DEPENDENCIES:
+  - ctc_podspec (from `../`)
+
+EXTERNAL SOURCES:
+  ctc_podspec:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ctc_podspec: 2b9b3ebc827cbf5d55a101d429e3651625df662e
+
+PODFILE CHECKSUM: fa59c27cef40d347a056c224b1f764da92ba19eb
+
+COCOAPODS: 1.10.2
