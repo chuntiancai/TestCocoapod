@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ctc_podspec_Example' do
+  pod 'ctc_podspec', :path => '../'
+
+  target 'ctc_podspec_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
