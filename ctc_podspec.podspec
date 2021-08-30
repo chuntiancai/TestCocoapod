@@ -32,13 +32,13 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'   #ios版本
 
-  s.source_files = 'ctc_podspec/Classes/**/*'   #参与编译的文件  **表示递归查找
+  s.source_files = 'ctc_podspec/Classes/*.swift'   #参与编译的文件  **表示递归查找
   
   # s.resource_bundles = {
   #   'ctc_podspec' => ['ctc_podspec/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'    #需要公开的头文件
+#   s.public_header_files = 'Pod/Classes/Framework/**/*.h'    #需要公开的头文件
   # s.frameworks = 'UIKit', 'MapKit'     #依赖的ios系统库
   # s.dependency 'AFNetworking', '~> 2.3'    #依赖的三方库
   # s.vendored_libraries = 'ctc_podspec/Classes/*.a'   #lpod库含有lib库时使用
