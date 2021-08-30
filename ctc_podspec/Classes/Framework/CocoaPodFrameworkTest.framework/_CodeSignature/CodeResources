@@ -4,110 +4,146 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/FrameworkMake_Test-Swift.h</key>
+		<key>Headers/CocoaPodFrameworkTest-Swift.h</key>
 		<data>
-		TsGl08ggOmRzkPE7RWxSoZ5/hiA=
+		QRhjkmXRrD+3FI8OAqmTpvHy6bA=
 		</data>
-		<key>Headers/FrameworkMake_Test.h</key>
+		<key>Headers/CocoaPodFrameworkTest.h</key>
 		<data>
-		OBR0aA2FlJvVAKq3U2l6pUyvM40=
+		I7JqbXFXVvI4MDzN6J+tXIMu+8I=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		If6dfDzQafw6FQUCkGrnYU75Dvo=
+		QSsPz63hdR3hw9EoUEJQbbDZLsk=
 		</data>
-		<key>Modules/FrameworkMake_Test.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		fORnxrTMjw/tFmA/a4J2/cMrikI=
+		3EaXQ80W4R8hRyJb51zQYkexAps=
 		</data>
-		<key>Modules/FrameworkMake_Test.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		fORnxrTMjw/tFmA/a4J2/cMrikI=
+		3EaXQ80W4R8hRyJb51zQYkexAps=
 		</data>
-		<key>Modules/FrameworkMake_Test.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		HpVDlWTD/BjMvgg8ygAzyBI4iSE=
+		0JoqoTYPfaft/4cCuwv2C9C8Nf8=
 		</data>
-		<key>Modules/FrameworkMake_Test.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ULtD7feDNDBS8b3DjFnWKWaUiYs=
+		tLYu81113W8ALMpBKlP4LKx+mzU=
 		</data>
-		<key>Modules/FrameworkMake_Test.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		HpVDlWTD/BjMvgg8ygAzyBI4iSE=
+		0JoqoTYPfaft/4cCuwv2C9C8Nf8=
 		</data>
-		<key>Modules/FrameworkMake_Test.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ULtD7feDNDBS8b3DjFnWKWaUiYs=
+		tLYu81113W8ALMpBKlP4LKx+mzU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		rowOAhV+50xHUTcn8/uB24d5ykc=
+		92jBYVmE7vZuQODfwJOv1z8INjo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/FrameworkMake_Test-Swift.h</key>
+		<key>Headers/CocoaPodFrameworkTest-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			QRhjkmXRrD+3FI8OAqmTpvHy6bA=
+			</data>
 			<key>hash2</key>
 			<data>
-			dU8OiMCva8D/5POXuhsAbELW+OIfVXpf8D4DAKhMCCw=
+			oEBEamG+wwW4RfzbSnxCzo5IS1uZxdvkcU5toY/oat8=
 			</data>
 		</dict>
-		<key>Headers/FrameworkMake_Test.h</key>
+		<key>Headers/CocoaPodFrameworkTest.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			I7JqbXFXVvI4MDzN6J+tXIMu+8I=
+			</data>
 			<key>hash2</key>
 			<data>
-			QC9rkEx8WiixyORflrgLscfJG+LFdovWHOnm65wl+VA=
+			8w92KfZRJdCkgO10Z/vxIVeSz/Qvm4xLwgBSFwUj6No=
 			</data>
 		</dict>
-		<key>Modules/FrameworkMake_Test.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			3EaXQ80W4R8hRyJb51zQYkexAps=
+			</data>
 			<key>hash2</key>
 			<data>
-			ePZtar0HugX3edXOLT4QzUd+mBORBjF71t9GCtyWgbM=
+			Spf401W5kLiHYYsw96GqplBtAtMjlWUgailwtfDGzyg=
 			</data>
 		</dict>
-		<key>Modules/FrameworkMake_Test.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			3EaXQ80W4R8hRyJb51zQYkexAps=
+			</data>
 			<key>hash2</key>
 			<data>
-			ePZtar0HugX3edXOLT4QzUd+mBORBjF71t9GCtyWgbM=
+			Spf401W5kLiHYYsw96GqplBtAtMjlWUgailwtfDGzyg=
 			</data>
 		</dict>
-		<key>Modules/FrameworkMake_Test.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0JoqoTYPfaft/4cCuwv2C9C8Nf8=
+			</data>
 			<key>hash2</key>
 			<data>
-			Hqv51uRogezsZF7UTluAxpZXwuaDEIJOv6XPiqaLLi0=
+			ixYcG3fOQAP5Pr+J3b2dfu3xz2RqFUNp2mHy0jCktIM=
 			</data>
 		</dict>
-		<key>Modules/FrameworkMake_Test.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			tLYu81113W8ALMpBKlP4LKx+mzU=
+			</data>
 			<key>hash2</key>
 			<data>
-			ZH9N9A9FhA8GZtBFXO85ox8aaohxJuTKb1xeslPtK5A=
+			mEsnzIEYSRScXhuRL4SNGuLv7O5d7CMWJ+K/4fgH1Ec=
 			</data>
 		</dict>
-		<key>Modules/FrameworkMake_Test.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/arm64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0JoqoTYPfaft/4cCuwv2C9C8Nf8=
+			</data>
 			<key>hash2</key>
 			<data>
-			Hqv51uRogezsZF7UTluAxpZXwuaDEIJOv6XPiqaLLi0=
+			ixYcG3fOQAP5Pr+J3b2dfu3xz2RqFUNp2mHy0jCktIM=
 			</data>
 		</dict>
-		<key>Modules/FrameworkMake_Test.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/CocoaPodFrameworkTest.swiftmodule/arm64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			tLYu81113W8ALMpBKlP4LKx+mzU=
+			</data>
 			<key>hash2</key>
 			<data>
-			ZH9N9A9FhA8GZtBFXO85ox8aaohxJuTKb1xeslPtK5A=
+			mEsnzIEYSRScXhuRL4SNGuLv7O5d7CMWJ+K/4fgH1Ec=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			92jBYVmE7vZuQODfwJOv1z8INjo=
+			</data>
 			<key>hash2</key>
 			<data>
-			pcRn2ewM0QGxFrFc1zbfrBBpyVWTGsGLjdeCYXrZgr4=
+			Doo7nTXYqyLEzA57eYLw4Pwv1bME5aPlN3YOl8DG588=
 			</data>
 		</dict>
 	</dict>

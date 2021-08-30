@@ -42,6 +42,6 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'     #依赖的ios系统库
   # s.dependency 'AFNetworking', '~> 2.3'    #依赖的三方库
   # s.vendored_libraries = 'ctc_podspec/Classes/*.a'   #lpod库含有lib库时使用
- s.vendored_frameworks = 'ctc_podspec/Classes/*.framework'  # pod库含有framework库时使用
+ s.vendored_frameworks = 'ctc_podspec/Classes/Framework/*.framework'  # pod库含有framework库时使用
 
 end
