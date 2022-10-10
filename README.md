@@ -25,7 +25,8 @@ pod 'ctc_podspec'
 
 2、通过命令创建cocoapod私有库：
     $ cd 合适的目录（最好是空文件夹）
-    $ pod lib create yourLibName（库名字）//这里会生成一系列必要文件，包括yourLibName.podspec文件，熟悉之后可以手动生成添加。
+    $ pod lib create yourLibName（库名字）
+    //这里会生成一系列必要文件，和一个Example工程，包括yourLibName.podspec文件，熟悉之后可以手动生成添加。
 
 3、描述信息：在yourLibName.podspec文件中，描述你的库的信息、xcode工程信息等。例如它们的github地址、编译文件、依赖关系等等。
 

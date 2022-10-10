@@ -214,10 +214,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = WGS3P7C8Z5;
 						LastSwiftMigration = 0900;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = WGS3P7C8Z5;
 						LastSwiftMigration = 0900;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -480,6 +482,7 @@
 			baseConfigurationReference = 97911D2C3DED7DC735AD161E /* Pods-ctc_podspec_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WGS3P7C8Z5;
 				INFOPLIST_FILE = ctc_podspec/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -495,6 +498,7 @@
 			baseConfigurationReference = 07C408C2F05D608353B7F31D /* Pods-ctc_podspec_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WGS3P7C8Z5;
 				INFOPLIST_FILE = ctc_podspec/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -509,6 +513,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 46C4A149007587B1A7EBCA1C /* Pods-ctc_podspec_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = WGS3P7C8Z5;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -531,6 +536,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 06F8216E246DB3AE3852FA6C /* Pods-ctc_podspec_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = WGS3P7C8Z5;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",

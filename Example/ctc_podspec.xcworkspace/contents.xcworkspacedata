@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:MyFrameWork/ctchFramework/ctchFramework.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:ctc_podspec.xcodeproj">
    </FileRef>
    <FileRef
